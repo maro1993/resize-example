@@ -1,0 +1,16 @@
+textarea {
+    resize: none;
+}
+
+.example-full-width {
+    width: 100%;
+}
+
+.example-container {
+    height: 200px;
+    width: 500px;
+    padding: 2rem;
+    gap: 3rem;
+    display: flex;
+    flex-direction: row;
+}
